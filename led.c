@@ -65,3 +65,5 @@ int main(int argc, char **argv)
     close(fd);
     return 0;
 }
+
+//출처 : https://webnautes.tistory.com/728
